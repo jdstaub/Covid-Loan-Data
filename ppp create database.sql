@@ -1,6 +1,7 @@
 -- PPP and EIDL analysis
 
 -- Importing data from csv files downloaded from the SBA website
+-- https://sba.app.box.com/s/5myd1nxutoq8wxecx2562baruz774si6/folder/127200074608
 DROP DATABASE IF EXISTS covid_loans;
 CREATE DATABASE covid_loans;
 SET NAMES utf8 ;
