@@ -110,6 +110,3 @@ INTO TABLE covid_loans.naics_codes
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n';
-
-INSERT INTO naics_codes
-	VALUES (NULL,NULL);
